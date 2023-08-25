@@ -12,5 +12,5 @@ The dataset used in this project comes from the Loan Predication dataset from Ka
 # AI Project Cycle
 <figure>
   <img src="https://github.com/novazi/prediction-loan/blob/main/AI_Project_Cycle.png" alt="Alt Text">
-  <figcaption><style> p {text-align: justify;}</style><p>AI Project Cycle</p></figcaption>
+  <figcaption style="text-align:center;">AI Project Cycle</figcaption>
 </figure>
