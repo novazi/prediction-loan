@@ -10,4 +10,5 @@ Project Loan Approval Prediction
 The dataset used in this project comes from the Loan Predication dataset from Kaggle. Here is the [link](https://www.kaggle.com/ninzaami/loan-predication/home)
 
 # AI Project Cycle
+
 ![AI Project Cycle](https://github.com/novazi/prediction-loan/blob/main/AI%20Project%20Cycle.png)
