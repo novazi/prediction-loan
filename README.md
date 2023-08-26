@@ -53,5 +53,5 @@ Fortunately, machine learning helps us with this and almost all commercial banks
 
 ## D. Summary
 
-<p>When building this loan approval predictor, we perform several steps such as converting categorical features to numerical, imputation of missing values, and determination of features used to build the model. We completed it with some machine learning models to predict whether a person's loan application will be approved or not with some information about the person. We have achieved 90% accuracy. 80.96% is the best we could get from this data using logistic regression model.
+<p>When building this loan approval predictor, we perform several steps such as converting categorical features to numerical, imputation of missing values, and determination of features used to build the model. We completed it with some machine learning models to predict whether a person's loan application will be approved or not with some information about the person. We have achieved 80.96% accuracy. 80.96% is the best we could get from this data using a Random Forest model.
 </p>
