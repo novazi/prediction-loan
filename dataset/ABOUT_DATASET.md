@@ -1,1 +1,0 @@
-The dataset used in this project comes from the Loan Predication dataset from Kaggle. Here is the [link](https://www.kaggle.com/ninzaami/loan-predication/home)
